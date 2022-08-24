@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/kouku-bingo/static/css/main.86037081.css",
+    "main.js": "/kouku-bingo/static/js/main.d4d47561.js",
+    "static/js/787.a26bef00.chunk.js": "/kouku-bingo/static/js/787.a26bef00.chunk.js",
+    "index.html": "/kouku-bingo/index.html",
+    "main.86037081.css.map": "/kouku-bingo/static/css/main.86037081.css.map",
+    "main.d4d47561.js.map": "/kouku-bingo/static/js/main.d4d47561.js.map",
+    "787.a26bef00.chunk.js.map": "/kouku-bingo/static/js/787.a26bef00.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.86037081.css",
+    "static/js/main.d4d47561.js"
+  ]
+}
